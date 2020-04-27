@@ -1,0 +1,57 @@
+{
+  "LAYERS": [
+    {
+      "geomType": 1,
+      "layerId": "avemathcircle_3344df5b_9a11_48e8_8d4d_04b8d207f6f9",
+      "name": "Centroids",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "paschooldistricts2019_05_a91935d8_9b3e_4520_bd2d_a441aa351afc",
+      "name": "avemathvalue",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "paschooldistricts2019_05_50077639_c312_4d0c_af11_469d1aa3b941",
+      "name": "aveincomevalue",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "paschooldistricts2019_05_9cedf340_85e1_4e74_a9b5_b0648b0829db",
+      "name": "paschooldistricts2019_05",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "FLAT",
+      "name": "Flat Plane",
+      "properties": {
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Shading": true,
+        "checkBox_Sides": true,
+        "checkBox_Surroundings": false,
+        "checkBox_TransparentBackground": false,
+        "checkBox_Visible": true,
+        "colorButton_Color": "0x000000",
+        "comboBox_ClipLayer": "paschooldistricts2019_05_a91935d8_9b3e_4520_bd2d_a441aa351afc",
+        "comboBox_TextureSize": 100,
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_ImageFile": "",
+        "radioButton_MapCanvas": true,
+        "spinBox_Opacity": 100,
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3,
+        "toolButton_SideColor": "0xccbbaa"
+      },
+      "visible": true
+    }
+  ]
+}
